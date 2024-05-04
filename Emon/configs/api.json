@@ -1,0 +1,9 @@
+{
+  "Emondev": "http://fi3.bot-hosting.net:20536",
+  "Emon": "http://fi3.bot-hosting.net:20536/EMon-BHai/"
+  "sim": "http://fi3.bot-hosting.net:20536/sim?type=ask&ask=sim%20ơi",
+  "teach": "http://fi3.bot-hosting.net:20536/sim?type=teach&ask=sim%20ơi&ans=ơii",
+  "biblesearch": "https://bible-api.com/",
+  "weather": "https://api.openweathermap.org/data/2.5/weather?q=",
+  "sensui": "https://sensui-useless-apis.codersensui.repl.co/"
+}
